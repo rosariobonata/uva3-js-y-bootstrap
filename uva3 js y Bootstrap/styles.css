@@ -1,0 +1,33 @@
+.generalcolor {
+background-color:#e2ad4b ;
+text-align: center;
+padding: 10px;
+margin-top: 0%;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #b88424 ;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+}
+
+.form-check-label {
+color: #b88424;
+}
+
+#mensajeEnviado {
+    background-color: #e2ad4b;
+    color: black;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60%;
+    text-align: center;
+    z-index: 1000;
+}
